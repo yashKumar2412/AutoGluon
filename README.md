@@ -1,5 +1,5 @@
 # AutoGluon
-As part of my Data Mining coursework, I have created this assignment repository to display my work on AutoGluon.
+As part of my Data Mining coursework, I have created this assignment repository to display my work on AutoGluon. The following notebooks cover different aspects of the AutoML library, AutoGluon.
 
 1. AutoGluon Tabular - Quickstart
 2. AutoGluon Tabular - Feature Engineering
@@ -10,3 +10,5 @@ As part of my Data Mining coursework, I have created this assignment repository 
 7. AutoMM for Text + Tabular
 8. AutoMM for Image + Text + Tabular
 9. Time Series Forecasting with Chronos
+
+The video for the same will be linked once uploaded.
