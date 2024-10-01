@@ -6,6 +6,7 @@ Colabs Set 1
 2. [AutoGluon Tabular - Multimodal](https://colab.research.google.com/drive/1Zn6MOTwVUmDnuF6mb2muyviloDs5NLeM?usp=sharing)
 3. [AutoGluon Tabular - Feature Engineering](https://colab.research.google.com/drive/1qbvvnowApkdLPfrXgKkqsbuB6VEimVTF?usp=sharing)
 4. [AutoGluon Tabular - Kaggle](https://colab.research.google.com/drive/1zL8dgkMT2b36slhegCsT2DpBADOx_CBJ?usp=sharing)
+5. [AutoMM - California Housing Dataset](https://colab.research.google.com/drive/1PiuLXVloXECW1XA4VypEIRTk8OYt0edo?usp=sharing)
 
 Colab Set 2
 1. [AutoMM for Text](https://colab.research.google.com/drive/1koThWyJsF6K4-hwYXJGTLSJVeLfy0V8d?usp=sharing)
