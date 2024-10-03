@@ -8,6 +8,8 @@ Colabs Set 1
 4. [AutoGluon Tabular - IEEE Fraud Detection](https://colab.research.google.com/drive/1zL8dgkMT2b36slhegCsT2DpBADOx_CBJ?usp=sharing)
 5. [AutoGluon - California Housing Prices](https://colab.research.google.com/drive/1PiuLXVloXECW1XA4VypEIRTk8OYt0edo?usp=sharing)
 
+The [YouTube walkthrough video](https://youtu.be/Gq-9rpw-Br4) of the set 1 colabs is also available.
+
 Colab Set 2
 1. [AutoMM for Text](https://colab.research.google.com/drive/1koThWyJsF6K4-hwYXJGTLSJVeLfy0V8d?usp=sharing)
 2. [AutoMM for Image Classification](https://colab.research.google.com/drive/17oFoo8u-JwC0QhlpgRsBng177FjV8pPJ?usp=sharing)
